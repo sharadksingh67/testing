@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\temp\\TestCICD\\TestCICD.csproj": {}
+    "D:\\temp\\TestCICD\\TestCICD.csproj": {}
   },
   "projects": {
-    "d:\\temp\\TestCICD\\TestCICD.csproj": {
+    "D:\\temp\\TestCICD\\TestCICD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\temp\\TestCICD\\TestCICD.csproj",
+        "projectUniqueName": "D:\\temp\\TestCICD\\TestCICD.csproj",
         "projectName": "TestCICD",
-        "projectPath": "d:\\temp\\TestCICD\\TestCICD.csproj",
+        "projectPath": "D:\\temp\\TestCICD\\TestCICD.csproj",
         "packagesPath": "C:\\Users\\Sharad\\.nuget\\packages\\",
-        "outputPath": "d:\\temp\\TestCICD\\obj\\",
+        "outputPath": "D:\\temp\\TestCICD\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
